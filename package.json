@@ -1,0 +1,19 @@
+{
+  "name": "jquery-cron",
+  "version": "1.4.1",
+  "description": "jquery-cron is a [jQuery] plugin for  presenting a simplified interface for users to specify cron entries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kendriu/jquery-cron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kendriu/jquery-cron/issues"
+  },
+  "homepage": "https://github.com/kendriu/jquery-cron#readme"
+}
